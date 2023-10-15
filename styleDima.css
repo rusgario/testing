@@ -63,7 +63,7 @@ h2 {
   }
 
 .img {
-    margin: 0 900px;
+    margin: 0 700px;
     height: 300px;
     width: 600px;
 }
@@ -79,7 +79,7 @@ h2 {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 20px 960px;
+    margin: 20px 800px;
     width: 400px;
 }
 
@@ -126,7 +126,7 @@ h2 {
 
 
   .gif {
-    margin: 0 950px;
+    margin: 0 750px;
     width: 400px;
     height: 200px;
   }
@@ -135,19 +135,19 @@ h2 {
 
 
   .audio {
-    margin: 10px 900px;
+    margin: 10px 700px;
     border: 2px solid;
   }
 
   .audio2 {
-    margin: 10px 900px;
+    margin: 10px 700px;
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   .container {
     display: block;
     justify-content: center;
-    margin: 30px 1040px;
+    margin: 30px 850px;
     width: 350px;
     height: 200px;
     
