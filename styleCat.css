@@ -181,63 +181,97 @@ body {
    
     @media only screen and (max-width: 768px) {
       .title {
-      font-size: 24px;
-      }
-      
-      .info {
-      margin: 0 50px;
-      }
-      
-      .pct {
-        margin: 0;
-        height: 200px;
-        width: 100%;
+        font-size: 18px;
         }
-  
-
-      .btn {
-      margin: 10px 150px;
-      width: 200px;
-      }
-      
-      .gif {
-      margin: 0 150px;
-      width: 200px;
-      height: 150px;
-      }
+        
+        .information {
+        margin: 0 auto;
+        width: auto;
+        height: auto;
+        }
+        
+        .img {
+          margin: 0 80px;
+          height: auto;
+          width: 80%;
+          }
+        
+        .btn {
+        margin: 10px 130px;
+        width: 150px;
+        }
+        
+        .gif {
+          margin: 0 70px;
+        width: 150px;
+        height: 100px;
+        }
+    
   
       }
       
       @media only screen and (max-width: 480px) {
-      .title {
-      font-size: 18px;
-      }
-      
-      .info {
-      margin: 0 20px;
-      }
-      
-      .pct {
-        margin: auto;
-        height: 150px;
-        width: 100%;
+        .title {
+        font-size: 18px;
         }
-      
-      .btn {
-      margin: 10px 130px;
-      width: 150px;
-      }
-      
-      .gif {
-        margin: 0 50px;
-      width: 150px;
-      height: 100px;
-      }
+        
+        .information {
+        margin: 0 auto;
+        width: auto;
+        height: auto;
+        }
+        
+        .img {
+          margin: 0 80px;
+          height: auto;
+          width: 50%;
+          }
+        
+        .btn {
+        margin: 10px 130px;
+        width: 150px;
+        }
+        
+        .gif {
+          margin: 0 70px;
+        width: 150px;
+        height: 100px;
+        }
+
+        .container {
+          margin: 40px auto;
+        }
+
+        }
   
-      }
   
-  
-    
+        @media only screen and (max-width: 1127px) { 
+          .title {
+            font-size: 18px;
+            margin: 0 auto;
+            }
+
+            .information {
+              margin: 0 auto;
+              width: auto;
+              height: auto;
+              }
+
+              .img {
+                margin: 0 250px;
+                height: auto;
+                width: 50%;
+                }
+
+                .container {
+                  margin: 40px 350px;
+                }
+
+                .gif {
+                  margin: 0 300px;
+                }
+        
+        }
    
     
   
